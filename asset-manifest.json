@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.95cfc5d8.chunk.css",
+    "main.js": "./static/js/main.1b1d9640.chunk.js",
+    "main.js.map": "./static/js/main.1b1d9640.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.9385c7ac.chunk.js": "./static/js/2.9385c7ac.chunk.js",
+    "static/js/2.9385c7ac.chunk.js.map": "./static/js/2.9385c7ac.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.95cfc5d8.chunk.css.map": "./static/css/main.95cfc5d8.chunk.css.map",
+    "static/js/2.9385c7ac.chunk.js.LICENSE.txt": "./static/js/2.9385c7ac.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "./static/media/error.5b91799f.png",
+    "static/media/arrowRight.98ff905d.svg": "./static/media/arrowRight.98ff905d.svg",
+    "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.9385c7ac.chunk.js",
+    "static/css/main.95cfc5d8.chunk.css",
+    "static/js/main.1b1d9640.chunk.js"
+  ]
+}
